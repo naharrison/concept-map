@@ -1,0 +1,100 @@
+CONNECTION:
+0
+1
+Hormones are the chemicals that control the endocrine system.
+CONNECTION:
+0
+2
+Alpha-cells can be found in the pancreas, which is a major organ of the endocrine system.
+CONNECTION:
+0
+3
+Beta-cells can be found in the pancreas, which is a major organ of the endocrine system.
+CONNECTION:
+0
+4
+Insulin is one of the major hormones of the endocrine system.
+CONNECTION:
+0
+5
+Glucagon is one of the major hormones of the endocrine system.
+CONNECTION:
+0
+6
+The pancreas is a major organ of endocrine system (it's also an exocrine organ).
+CONNECTION:
+0
+7
+Islets of Langerhans can be found in the pancreas, which is a major organ of the endocrine system.
+CONNECTION:
+0
+8
+The hypothalamus is one of the major organs of the endocrine system.
+CONNECTION:
+1
+2
+Alpha-cells produce glucagon, which is a hormone.
+CONNECTION:
+1
+3
+Alpha-cells produce insulin, which is a hormone.
+CONNECTION:
+1
+4
+Insulin is a hormone!
+CONNECTION:
+1
+5
+Glucagon is a hormone!
+CONNECTION:
+1
+6
+The pancreas produces several hormones including insulin and glucagon.
+CONNECTION:
+2
+5
+Alpha-cells produce glucagon.
+CONNECTION:
+2
+3
+Both found in the pancreas and regulate blood glucose levels.
+CONNECTION:
+3
+4
+Beta-cells produce insulin.
+CONNECTION:
+4
+5
+Both regulate blood glucose levels. Glucagon raises it while insulin lowers it.
+CONNECTION:
+4
+6
+Insulin is produced in the pancreas.
+CONNECTION:
+5
+6
+Glucagon is produced in the pancreas.
+CONNECTION:
+9
+10
+The kidney's produce erythropoietin (EPO) which promotes the formation of erythrocytes by bone marrow.
+CONNECTION:
+10
+12
+Antigens can be found on the surface of erythrocytes and determine a person's blood type.
+CONNECTION:
+10
+13
+Hemoglobin is found in erythrocytes; it holds the oxygen that blood carries to the body.
+CONNECTION:
+1
+10
+The hormone erythropoietin (EPO) is responsible for the formation of erythrocytes.
+CONNECTION:
+7
+13
+The islets of Langerhans require oxygen to function. Hemoglobin (via RBCs) brings oxygen to them.
+CONNECTION:
+3
+11
+They are both cells that help to keep your body functioning properly!

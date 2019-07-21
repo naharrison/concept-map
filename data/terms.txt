@@ -1,0 +1,14 @@
+endocrine
+hormone
+alpha-cells
+beta-cells
+insulin
+glucagon
+pancreas
+islets of Langerhans
+hypothalamus
+kidney
+erythrocyte
+leukocyte
+antigen
+hemoglobin
